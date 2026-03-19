@@ -23,10 +23,4 @@ chmod +x script.sh
 ```
 
 #### Sample Output
-`------ Log Analysis Report ------
-Total lines: 10
-Failed login attempts: 4
-Top Attacker IP: 192.168.1.11 (3 attempts)
-Most Targeted User: user2 (3 attempts)
-⚠️ ALERT: Possible brute force attack detected!`
---------------------------------
+![OUTPUT](output.png)
