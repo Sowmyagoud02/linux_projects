@@ -27,8 +27,8 @@ A Bash-based tool to monitor system resources such as memory, disk usage, proces
 ### ▶️ How to Run
 
 ```bash
-chmod +x system_monitor.sh
-./system_monitor.sh
+chmod +x script.sh
+./script.sh
 ```
 
 ---
